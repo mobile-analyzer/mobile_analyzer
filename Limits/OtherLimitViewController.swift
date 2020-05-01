@@ -113,3 +113,67 @@ class OtherLimitViewController: UIViewController {
         
     }
     
+   
+    let x = 0
+    let y = 70
+    
+    
+    //setup add limit Button
+    func forAddButton(){
+        let addButton = UIButton.init(type: .system)
+        addButton.frame = CGRect(x: 0, y: 0, width: 50, height: 50)
+        addButton.center = CGPoint(x: view.frame.width / 2, y: view.frame.height / 2)
+        addButton.setBackgroundImage(UIImage(named: "plus"), for: .normal)
+        addButton.addTarget(self, action: #selector(addButtonClicked(_:)), for: .touchUpInside)
+        self.view.addSubview(addButton)
+    }
+    
+    //setup delete limit  button
+    func forDeleteButton(){
+        let deleteButton = UIButton.init(type: .system)
+        deleteButton.frame = CGRect(x: 184-x, y: 602-y, width: 50, height: 50)
+        deleteButton.setBackgroundImage(UIImage(named: "delete"), for: .normal)
+        deleteButton.addTarget(self, action: #selector(deleteButtonClicked(_:)), for: .touchUpInside)
+        self.view.addSubview(deleteButton)
+    }
+    
+    //setup limit lables
+    let limitLabel = UILabel.init()
+    func limitLabel(sizeOfLimit: Double, progressDone: Any){
+        
+        limitLabel.frame = CGRect(x: 130-x, y: 490-y, width: 70, height: 21)
+        limitLabel.text = "\(progressDone)%"
+        limitLabel.textColor = .white
+        
+        
+        let amountOfLimit = UILabel.init()
+        amountOfLimit.frame = CGRect(x: 278-x, y: 522-y, width: 250, height: 23)
+        amountOfLimit.text = "\(sizeOfLimit)"
+        amountOfLimit.textColor = .white
+        amountOfLimit.font = .systemFont(ofSize: 25)
+        
+        self.view.addSubview(limitLabel)
+        self.view.addSubview(amountOfLimit)
+    }
+    
+    //setup progress view
+    func createProgressView(progress: Float){
+        let progressView = UIProgressView.init()
+        progressView.frame = CGRect(x: 20-x, y: 531-y, width: 250, height: 1)
+        progressView.setProgress(progress, animated: true)
+        progressView.transform = progressView.transform.scaledBy(x: 1, y: 5)
+        progressView.progressTintColor = .red
+        self.view.addSubview(progressView)
+    }
+    
+    //setup page title
+    func createPageTitle(){
+        let pageTitle = UILabel.init()
+        pageTitle.frame = CGRect(x: 0, y: 0, width: 264, height: 50)
+        pageTitle.center = CGPoint(x: view.frame.width / 2, y: 20)
+        pageTitle.text = "        Other limit"
+        pageTitle.textColor = .white
+        pageTitle.font = .systemFont(ofSize: 33)
+        self.view.addSubview(pageTitle)
+    }
+}
