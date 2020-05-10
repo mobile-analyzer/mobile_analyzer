@@ -1,0 +1,957 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/AppDelegate.swift",
+      "line": 6,
+      "symbol": "AppDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/AppDelegate.swift",
+      "line": 8,
+      "symbol": "AppDelegate.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/AppDelegate.swift",
+      "line": 11,
+      "symbol": "AppDelegate.application(_:didFinishLaunchingWithOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/AppDelegate.swift",
+      "line": 34,
+      "symbol": "AppDelegate.applicationWillResignActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/AppDelegate.swift",
+      "line": 39,
+      "symbol": "AppDelegate.applicationDidEnterBackground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/AppDelegate.swift",
+      "line": 44,
+      "symbol": "AppDelegate.applicationWillEnterForeground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/AppDelegate.swift",
+      "line": 48,
+      "symbol": "AppDelegate.applicationDidBecomeActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/AppDelegate.swift",
+      "line": 52,
+      "symbol": "AppDelegate.applicationWillTerminate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Expense, Income/addExpenseViewController.swift",
+      "line": 10,
+      "symbol": "addExpenseViewController.ref",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Expense, Income/addExpenseViewController.swift",
+      "line": 11,
+      "symbol": "addExpenseViewController.uid",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Expense, Income/addExpenseViewController.swift",
+      "line": 14,
+      "symbol": "addExpenseViewController.dataSource",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Expense, Income/addExpenseViewController.swift",
+      "line": 15,
+      "symbol": "addExpenseViewController.pickerViewText",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Expense, Income/addExpenseViewController.swift",
+      "line": 17,
+      "symbol": "addExpenseViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Expense, Income/addExpenseViewController.swift",
+      "line": 25,
+      "symbol": "addExpenseViewController.viewDidAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Expense, Income/addExpenseViewController.swift",
+      "line": 28,
+      "symbol": "addExpenseViewController.expenseTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Expense, Income/addExpenseViewController.swift",
+      "line": 29,
+      "symbol": "addExpenseViewController.selectedGroupTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Expense, Income/addExpenseViewController.swift",
+      "line": 137,
+      "symbol": "addExpenseViewController.touchesBegan(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Expense, Income/addExpenseViewController.swift",
+      "line": 175,
+      "symbol": "addExpenseViewController.numberOfComponents(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Expense, Income/addExpenseViewController.swift",
+      "line": 178,
+      "symbol": "addExpenseViewController.pickerView(_:numberOfRowsInComponent:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Expense, Income/addExpenseViewController.swift",
+      "line": 181,
+      "symbol": "addExpenseViewController.pickerView(_:didSelectRow:inComponent:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Expense, Income/addExpenseViewController.swift",
+      "line": 185,
+      "symbol": "addExpenseViewController.pickerView(_:titleForRow:forComponent:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Expense, Income/addExpenseViewController.swift",
+      "line": 189,
+      "symbol": "addExpenseViewController.pickerView(_:viewForRow:forComponent:reusing:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Expense, Income/addIncomeViewController.swift",
+      "line": 8,
+      "symbol": "addIncomeViewController.ref",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Expense, Income/addIncomeViewController.swift",
+      "line": 9,
+      "symbol": "addIncomeViewController.uid",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Expense, Income/addIncomeViewController.swift",
+      "line": 11,
+      "symbol": "addIncomeViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Expense, Income/addIncomeViewController.swift",
+      "line": 18,
+      "symbol": "addIncomeViewController.incomeAmountTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Expense, Income/addIncomeViewController.swift",
+      "line": 19,
+      "symbol": "addIncomeViewController.incomeCommentTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Expense, Income/addIncomeViewController.swift",
+      "line": 64,
+      "symbol": "addIncomeViewController.touchesBegan(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Extensions.swift",
+      "line": 7,
+      "symbol": "Date.calenderTimeSinceNow()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/CafeLimitViewController.swift",
+      "line": 7,
+      "symbol": "CafeLimitViewController.ref",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/CafeLimitViewController.swift",
+      "line": 8,
+      "symbol": "CafeLimitViewController.uid",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/CafeLimitViewController.swift",
+      "line": 10,
+      "symbol": "CafeLimitViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/CafeLimitViewController.swift",
+      "line": 30,
+      "symbol": "CafeLimitViewController.viewDidAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/CafeLimitViewController.swift",
+      "line": 119,
+      "symbol": "CafeLimitViewController.x",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/CafeLimitViewController.swift",
+      "line": 120,
+      "symbol": "CafeLimitViewController.y",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/CafeLimitViewController.swift",
+      "line": 124,
+      "symbol": "CafeLimitViewController.forAddButton()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/CafeLimitViewController.swift",
+      "line": 134,
+      "symbol": "CafeLimitViewController.forDeleteButton()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/CafeLimitViewController.swift",
+      "line": 143,
+      "symbol": "CafeLimitViewController.limitLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/CafeLimitViewController.swift",
+      "line": 144,
+      "symbol": "CafeLimitViewController.limitLabel(sizeOfLimit:progressDone:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/CafeLimitViewController.swift",
+      "line": 162,
+      "symbol": "CafeLimitViewController.createProgressView(progress:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/CafeLimitViewController.swift",
+      "line": 172,
+      "symbol": "CafeLimitViewController.createPageTitle()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/CarLimitViewController.swift",
+      "line": 8,
+      "symbol": "CarLimitViewController.ref",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/CarLimitViewController.swift",
+      "line": 9,
+      "symbol": "CarLimitViewController.uid",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/CarLimitViewController.swift",
+      "line": 11,
+      "symbol": "CarLimitViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/CarLimitViewController.swift",
+      "line": 31,
+      "symbol": "CarLimitViewController.viewDidAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/CarLimitViewController.swift",
+      "line": 120,
+      "symbol": "CarLimitViewController.x",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/CarLimitViewController.swift",
+      "line": 121,
+      "symbol": "CarLimitViewController.y",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/CarLimitViewController.swift",
+      "line": 125,
+      "symbol": "CarLimitViewController.forAddButton()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/CarLimitViewController.swift",
+      "line": 135,
+      "symbol": "CarLimitViewController.forDeleteButton()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/CarLimitViewController.swift",
+      "line": 144,
+      "symbol": "CarLimitViewController.limitLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/CarLimitViewController.swift",
+      "line": 145,
+      "symbol": "CarLimitViewController.limitLabel(sizeOfLimit:progressDone:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/CarLimitViewController.swift",
+      "line": 163,
+      "symbol": "CarLimitViewController.createProgressView(progress:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/CarLimitViewController.swift",
+      "line": 173,
+      "symbol": "CarLimitViewController.createPageTitle()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/EntertainmentLimitViewController.swift",
+      "line": 7,
+      "symbol": "EntertainmentLimitViewController.ref",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/EntertainmentLimitViewController.swift",
+      "line": 8,
+      "symbol": "EntertainmentLimitViewController.uid",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/EntertainmentLimitViewController.swift",
+      "line": 10,
+      "symbol": "EntertainmentLimitViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/EntertainmentLimitViewController.swift",
+      "line": 30,
+      "symbol": "EntertainmentLimitViewController.viewDidAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/EntertainmentLimitViewController.swift",
+      "line": 119,
+      "symbol": "EntertainmentLimitViewController.x",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/EntertainmentLimitViewController.swift",
+      "line": 120,
+      "symbol": "EntertainmentLimitViewController.y",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/EntertainmentLimitViewController.swift",
+      "line": 124,
+      "symbol": "EntertainmentLimitViewController.forAddButton()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/EntertainmentLimitViewController.swift",
+      "line": 134,
+      "symbol": "EntertainmentLimitViewController.forDeleteButton()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/EntertainmentLimitViewController.swift",
+      "line": 143,
+      "symbol": "EntertainmentLimitViewController.limitLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/EntertainmentLimitViewController.swift",
+      "line": 144,
+      "symbol": "EntertainmentLimitViewController.limitLabel(sizeOfLimit:progressDone:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/EntertainmentLimitViewController.swift",
+      "line": 162,
+      "symbol": "EntertainmentLimitViewController.createProgressView(progress:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/EntertainmentLimitViewController.swift",
+      "line": 172,
+      "symbol": "EntertainmentLimitViewController.createPageTitle()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/OtherLimitViewController.swift",
+      "line": 7,
+      "symbol": "OtherLimitViewController.ref",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/OtherLimitViewController.swift",
+      "line": 8,
+      "symbol": "OtherLimitViewController.uid",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/OtherLimitViewController.swift",
+      "line": 10,
+      "symbol": "OtherLimitViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/OtherLimitViewController.swift",
+      "line": 30,
+      "symbol": "OtherLimitViewController.viewDidAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/OtherLimitViewController.swift",
+      "line": 119,
+      "symbol": "OtherLimitViewController.x",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/OtherLimitViewController.swift",
+      "line": 120,
+      "symbol": "OtherLimitViewController.y",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/OtherLimitViewController.swift",
+      "line": 124,
+      "symbol": "OtherLimitViewController.forAddButton()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/OtherLimitViewController.swift",
+      "line": 134,
+      "symbol": "OtherLimitViewController.forDeleteButton()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/OtherLimitViewController.swift",
+      "line": 143,
+      "symbol": "OtherLimitViewController.limitLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/OtherLimitViewController.swift",
+      "line": 144,
+      "symbol": "OtherLimitViewController.limitLabel(sizeOfLimit:progressDone:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/OtherLimitViewController.swift",
+      "line": 162,
+      "symbol": "OtherLimitViewController.createProgressView(progress:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/OtherLimitViewController.swift",
+      "line": 172,
+      "symbol": "OtherLimitViewController.createPageTitle()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/SupermarketsLimitViewController.swift",
+      "line": 7,
+      "symbol": "SupermarketsLimitViewController.ref",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/SupermarketsLimitViewController.swift",
+      "line": 8,
+      "symbol": "SupermarketsLimitViewController.uid",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/SupermarketsLimitViewController.swift",
+      "line": 10,
+      "symbol": "SupermarketsLimitViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/SupermarketsLimitViewController.swift",
+      "line": 30,
+      "symbol": "SupermarketsLimitViewController.viewDidAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/SupermarketsLimitViewController.swift",
+      "line": 119,
+      "symbol": "SupermarketsLimitViewController.x",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/SupermarketsLimitViewController.swift",
+      "line": 120,
+      "symbol": "SupermarketsLimitViewController.y",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/SupermarketsLimitViewController.swift",
+      "line": 124,
+      "symbol": "SupermarketsLimitViewController.forAddButton()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/SupermarketsLimitViewController.swift",
+      "line": 134,
+      "symbol": "SupermarketsLimitViewController.forDeleteButton()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/SupermarketsLimitViewController.swift",
+      "line": 143,
+      "symbol": "SupermarketsLimitViewController.limitLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/SupermarketsLimitViewController.swift",
+      "line": 144,
+      "symbol": "SupermarketsLimitViewController.limitLabel(sizeOfLimit:progressDone:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/SupermarketsLimitViewController.swift",
+      "line": 162,
+      "symbol": "SupermarketsLimitViewController.createProgressView(progress:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/SupermarketsLimitViewController.swift",
+      "line": 172,
+      "symbol": "SupermarketsLimitViewController.createPageTitle()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/rootPageViewController.swift",
+      "line": 6,
+      "symbol": "rootPageViewController.viewControllerList",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/rootPageViewController.swift",
+      "line": 18,
+      "symbol": "rootPageViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/rootPageViewController.swift",
+      "line": 28,
+      "symbol": "rootPageViewController.viewDidLayoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/rootPageViewController.swift",
+      "line": 39,
+      "symbol": "rootPageViewController.pageViewController(_:viewControllerBefore:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/rootPageViewController.swift",
+      "line": 49,
+      "symbol": "rootPageViewController.pageViewController(_:viewControllerAfter:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/rootPageViewController.swift",
+      "line": 59,
+      "symbol": "rootPageViewController.presentationCount(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Limits/rootPageViewController.swift",
+      "line": 63,
+      "symbol": "rootPageViewController.presentationIndex(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/MainPageController.swift",
+      "line": 9,
+      "symbol": "MainPageController.totalExpenseAmountTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/MainPageController.swift",
+      "line": 10,
+      "symbol": "MainPageController.totalIncomeAmountTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/MainPageController.swift",
+      "line": 12,
+      "symbol": "MainPageController.userNameTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/MainPageController.swift",
+      "line": 15,
+      "symbol": "MainPageController.ref",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/MainPageController.swift",
+      "line": 16,
+      "symbol": "MainPageController.uid",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/MainPageController.swift",
+      "line": 18,
+      "symbol": "MainPageController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/MainPageController.swift",
+      "line": 26,
+      "symbol": "MainPageController.viewDidAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/MainPageController.swift",
+      "line": 50,
+      "symbol": "MainPageController.touchesBegan(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/MainTabController.swift",
+      "line": 4,
+      "symbol": "MainTabController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/MainTabController.swift",
+      "line": 5,
+      "symbol": "MainTabController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Money filter/DateFilterViewController.swift",
+      "line": 8,
+      "symbol": "DateFilterViewController.ref",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Money filter/DateFilterViewController.swift",
+      "line": 9,
+      "symbol": "DateFilterViewController.uid",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Money filter/DateFilterViewController.swift",
+      "line": 11,
+      "symbol": "DateFilterViewController.carExpenseAmount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Money filter/DateFilterViewController.swift",
+      "line": 12,
+      "symbol": "DateFilterViewController.cafeExpenseAmount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Money filter/DateFilterViewController.swift",
+      "line": 13,
+      "symbol": "DateFilterViewController.entertainmentExpenseAmount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Money filter/DateFilterViewController.swift",
+      "line": 14,
+      "symbol": "DateFilterViewController.supermarketsExpenseAmount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Money filter/DateFilterViewController.swift",
+      "line": 15,
+      "symbol": "DateFilterViewController.otherExpenseAmount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Money filter/DateFilterViewController.swift",
+      "line": 17,
+      "symbol": "DateFilterViewController.expenseResultLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Money filter/DateFilterViewController.swift",
+      "line": 18,
+      "symbol": "DateFilterViewController.incomeResultLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Money filter/DateFilterViewController.swift",
+      "line": 20,
+      "symbol": "DateFilterViewController.fromDateTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Money filter/DateFilterViewController.swift",
+      "line": 21,
+      "symbol": "DateFilterViewController.toDateTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Money filter/DateFilterViewController.swift",
+      "line": 25,
+      "symbol": "DateFilterViewController.viewDidAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Money filter/DateFilterViewController.swift",
+      "line": 29,
+      "symbol": "DateFilterViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/Money filter/DateFilterViewController.swift",
+      "line": 64,
+      "symbol": "DateFilterViewController.viewTapped(gestureRecognizer:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/MoneyboxVC.swift",
+      "line": 8,
+      "symbol": "MoneyboxVC.ref",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/MoneyboxVC.swift",
+      "line": 9,
+      "symbol": "MoneyboxVC.uid",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/MoneyboxVC.swift",
+      "line": 11,
+      "symbol": "MoneyboxVC.savedMoney",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/MoneyboxVC.swift",
+      "line": 13,
+      "symbol": "MoneyboxVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/MoneyboxVC.swift",
+      "line": 16,
+      "symbol": "MoneyboxVC.viewDidAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/User Authentication/loginViewController.swift",
+      "line": 7,
+      "symbol": "loginViewController.userEmailTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/User Authentication/loginViewController.swift",
+      "line": 8,
+      "symbol": "loginViewController.userPasswordTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/User Authentication/loginViewController.swift",
+      "line": 71,
+      "symbol": "loginViewController.textFieldShouldReturn(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/User Authentication/userRegistration.swift",
+      "line": 8,
+      "symbol": "userRegistration.userLoginTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/User Authentication/userRegistration.swift",
+      "line": 9,
+      "symbol": "userRegistration.userPasswordTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/User Authentication/userRegistration.swift",
+      "line": 10,
+      "symbol": "userRegistration.userConfirmPasswordTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/User Authentication/userRegistration.swift",
+      "line": 123,
+      "symbol": "userRegistration.textFieldShouldReturn(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/ViewController.swift",
+      "line": 3,
+      "symbol": "ViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/ViewController.swift",
+      "line": 5,
+      "symbol": "ViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/ViewController.swift",
+      "line": 13,
+      "symbol": "Int.square()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/koi/Desktop/Project/mobile_analyzer/Analyser/ViewController.swift",
+      "line": 19,
+      "symbol": "String.title()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/koi/Desktop/Project/mobile_analyzer"
+}
